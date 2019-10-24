@@ -6,3 +6,8 @@ build/*
 
 # other
 *.class
+
+# ide generated
+.classpath
+.settings
+.project
